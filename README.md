@@ -4,4 +4,4 @@
 2. run `python main.py`
 
 ## Screenshot
-
+![screenshot](screenshot.png)
